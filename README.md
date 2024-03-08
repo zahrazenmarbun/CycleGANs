@@ -3,7 +3,8 @@
 <h3 align="center">Build an Image Style Transfer Tool using CycleGANs </h3>
 
 
-<h4 align="center"> 
+<h4 align="center"> Perangkat Lunak
+ 
  *1.Python*
  
  *2.Google Colab*
